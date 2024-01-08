@@ -1,0 +1,22 @@
+.item{
+    display: flex;
+    width: 220px;
+    height: 64px;
+    align-items: center;
+    gap: 10px;
+}
+.item_img_container{
+    width: 40px;
+   height: 40px;
+   border-radius: 100%; 
+   background-color: aqua;
+  
+}
+.item_img_container img{
+    width: 100%;
+    border-radius: 100%;
+}
+.item_title{
+    font-size: 24px;
+    color: blueviolet;
+}
