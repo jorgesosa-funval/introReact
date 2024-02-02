@@ -1,0 +1,5 @@
+.messageContainer{
+    display: flex;
+    width: calc(100% - 340px);
+    background: #000;
+}
